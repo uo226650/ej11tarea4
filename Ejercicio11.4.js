@@ -1,4 +1,5 @@
 // Tarea 4: Crear un mapa dinámico con un determinado centro. El centro debe señalarse con un marcador
+// TAW y WAVE dan problemas de accesibilidad debido a la naturaleza de los mapas dinámicos de google
 // AIzaSyC8aUp4J8B-MOmk6mg4A8cSsbE3qzEpB1g (miKey)
 
 /**
