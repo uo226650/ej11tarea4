@@ -7,9 +7,15 @@ h1{
     color:rgb(39, 11, 65);
 }
 
+h2{
+    text-align:center;
+    color:rgb(77, 0, 128);
+}
+
 #mapa {
     height: 500px;
     width: 100%;
+    border: thin solid #333;
 }
 
 footer {
